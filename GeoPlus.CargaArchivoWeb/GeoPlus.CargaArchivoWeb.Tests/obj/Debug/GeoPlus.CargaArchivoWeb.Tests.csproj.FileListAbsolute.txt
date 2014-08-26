@@ -1,0 +1,7 @@
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\bin\Debug\GeoPlus.CargaArchivoWeb.Tests.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\bin\Debug\GeoPlus.CargaArchivoWeb.Tests.pdb
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\bin\Debug\GeoPlus.CargaArchivoWeb.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\bin\Debug\GeoPlus.CargaArchivoWeb.pdb
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\obj\Debug\GeoPlus.CargaArchivoWeb.Tests.csprojResolveAssemblyReference.cache
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\obj\Debug\GeoPlus.CargaArchivoWeb.Tests.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb.Tests\obj\Debug\GeoPlus.CargaArchivoWeb.Tests.pdb

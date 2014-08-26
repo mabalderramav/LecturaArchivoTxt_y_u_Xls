@@ -1,0 +1,5 @@
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb\bin\GeoPlus.CargaArchivoWeb.dll.config
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb\bin\GeoPlus.CargaArchivoWeb.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb\bin\GeoPlus.CargaArchivoWeb.pdb
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb\obj\Debug\GeoPlus.CargaArchivoWeb.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb\GeoPlus.CargaArchivoWeb\obj\Debug\GeoPlus.CargaArchivoWeb.pdb

@@ -1,0 +1,6 @@
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\bin\GeoPlus.CargaArchivoWeb2.dll.config
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\bin\GeoPlus.CargaArchivoWeb2.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\bin\GeoPlus.CargaArchivoWeb2.pdb
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\obj\Debug\GeoPlus.CargaArchivoWeb2.dll
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\obj\Debug\GeoPlus.CargaArchivoWeb2.pdb
+C:\Web\LecturaArchivoTxt_y_u_Xls\GeoPlus.CargaArchivoWeb2\GeoPlus.CargaArchivoWeb2\obj\Debug\GeoPlus.CargaArchivoWeb2.csprojResolveAssemblyReference.cache
